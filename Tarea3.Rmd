@@ -17,6 +17,9 @@ library(dplyr)
 ## Pregunta 1,
 <img src = 'P1.png'>
 ## A.
+## WENA FERRADIXXXXX
+
+
 ```{r}
 energy <-fread("energy_dataset.csv")
 energy
